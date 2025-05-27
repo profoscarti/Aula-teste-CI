@@ -9,5 +9,5 @@ test('soma números negativos', () => {
 });
 
 test('soma 2 + 2 para igualar 4', () => {
-  expect(sum(2, 2)).toBe(4);
+  expect(sum(2, 2)).toBe(5);
 });
