@@ -13,5 +13,5 @@ test('soma 2 + 2 para igualar 4', () => {
 });
 
 test('soma 2 + 6 para igualar 4', () => {
-  expect(sum(2, 6)).toBe(8);
+  expect(sum(2, 6)).toBe(7);
 });
