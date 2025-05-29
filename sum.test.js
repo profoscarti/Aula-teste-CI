@@ -12,6 +12,6 @@ test('soma 2 + 2 para igualar 4', () => {
   expect(sum(2, 2)).toBe(4);
 });
 
-test('soma 2 + 1 para igualar 3', () => {
-  expect(sum(2, 1)).toBe(3);
+test('soma 2 + 2 para igualar 4', () => {
+  expect(sum(2, 2)).toBe(3);
 });
